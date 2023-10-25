@@ -1,0 +1,61 @@
+.A{
+    background-image: url(https://images.pexels.com/photos/287240/pexels-photo-287240.jpeg?cs=srgb&dl=pexels-nina-uhlikova-287240.jpg&fm=jpg);
+    padding: 24%;
+    align-content: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    font-family: fantasy;
+    /* font-size: larger; */
+}
+body{
+    background-color: black;
+}
+.Kerala{
+    /* margin-top: 2%;
+    margin-left: 2%;
+    margin-bottom: 5%; */
+    background-color: black;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-right: 3%;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.india{
+    background-color: black;
+    color: white;
+    font-family: fantasy;
+    text-align: center;
+    padding: 2%;
+
+}
+
+td{
+    font-size: 230%;
+}
+
+.world{
+    background-color: black;
+    color: white;
+    font-family: fantasy;
+    text-align: center;
+    padding: 2%;
+}
+
+.last{
+    background-image: url(https://static-prod.adweek.com/wp-content/uploads/2022/05/genz-summer-travel-wanderlust-2022.jpg);
+    padding: 24%;
+    align-content: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: fantasy;
+    font-size: 55px;
+    text-align: center;
+}
+
+img:hover{
+    transform: scale(2.0);
+}
